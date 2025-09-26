@@ -1,7 +1,7 @@
 # Wanderlust Airbnb 🏡🌍
 
-Airbnb-inspired full-stack project **“Wanderlust”** 🏡: browse, create, and manage listings with images.  
-Built with **Node.js**, **Express**, **JavaScript**, **MongoDB**, **EJS**, **HTML**, **CSS**, and **Cloudinary** ☁️.  
+Airbnb-inspired full-stack project **“Wanderlust”** 🏡: browse, create, edit, delete listings, leave reviews, and explore locations on a map.  
+Built with **JavaScript**, **Node.js**, **Express**, **EJS**, **HTML**, **CSS**, **MongoDB**, **Cloudinary**, and **Mapbox** 🗺️.  
 
 ---
 
@@ -9,16 +9,19 @@ Built with **Node.js**, **Express**, **JavaScript**, **MongoDB**, **EJS**, **HTM
 - User authentication 🔑  
 - Browse all listings 🌍  
 - Create new listings with image uploads 📸  
+- Edit and delete listings 📝  
+- Reviews section ⭐💬  
+- Map integration with Mapbox 🗺️  
 - Responsive design for desktop and mobile 📱💻  
-- CRUD operations on listings 📝  
 
 ---
 
 ## Tech Stack 💻
-- **Backend:** Node.js, Express.js, JavaScript  
+- **Backend:** JavaScript (Node.js, Express.js)  
+- **Frontend:** EJS templates, HTML, CSS, JavaScript  
 - **Database:** MongoDB, Mongoose  
-- **Frontend:** EJS, HTML, CSS  
-- **Image Storage:** Cloudinary  
+- **Image Storage:** Cloudinary ☁️  
+- **Maps & Location:** Mapbox 🗺️  
 - **Version Control:** Git & GitHub  
 
 ---
@@ -27,7 +30,8 @@ Built with **Node.js**, **Express**, **JavaScript**, **MongoDB**, **EJS**, **HTM
 - Register/Login as a user  
 - Browse available listings  
 - Create new listing with title, description, price, and image  
-- View listings in detail  
+- Edit or delete your own listings  
+- Leave reviews on listings  
+- Explore listing locations on interactive Mapbox map  
 
----
 
