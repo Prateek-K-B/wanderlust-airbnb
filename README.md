@@ -23,4 +23,7 @@ Built with **JavaScript**, **Node.js**, **Express**, **EJS**, **HTML**, **CSS**,
 - **Image Storage:** Cloudinary ☁️  
 - **Maps & Location:** Mapbox 🗺️  
 - **Authentication:** Express-session / Passport  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+
+---
+![Homepage](public/assets/images/Screenshot 145.png)
