@@ -25,5 +25,4 @@ Built with **JavaScript**, **Node.js**, **Express**, **EJS**, **HTML**, **CSS**,
 - **Authentication:** Express-session / Passport  
 - **Version Control:** Git & GitHub
 
----
-![Homepage](public/assets/images/Screenshot 145.png)
+
